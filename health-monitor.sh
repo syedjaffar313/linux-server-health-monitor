@@ -99,3 +99,4 @@ else
 fi
 
 echo "Checked by Jaffar"
+echo "Git commit 3 test"
