@@ -97,3 +97,5 @@ if [ "$server_status" = "HEALTHY" ]; then
 else
     exit 1
 fi
+
+echo "Checked by Jaffar"
