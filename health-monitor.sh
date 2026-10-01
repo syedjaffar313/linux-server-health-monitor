@@ -102,3 +102,4 @@ echo "Checked by Jaffar"
 echo "Git commit 3 test"
 echo "Feature branch test"
 # Practicing Git integration with VS Code
+# IoT alert feature
