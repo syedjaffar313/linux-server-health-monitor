@@ -103,4 +103,4 @@ echo "Git commit 3 test"
 echo "Feature branch test"
 # Practicing Git integration with VS Code
 # IoT alert feature
-# Docker preparation
+# Docker preparation - main branch version
